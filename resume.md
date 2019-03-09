@@ -1,6 +1,6 @@
 # Mela Danielson
-213-555-1212
-mela@meladanielson.com
+- 213-555-1212
+- mela@meladanielson.com
 
 # Education 
 ---
