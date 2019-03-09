@@ -17,12 +17,12 @@ mela@meladanielson.com
 
 # Work Experience 
 ---
-#### ClearCenter Inc., Orem, UT
+### ClearCenter Inc., Orem, UT
 **Support Analyst 2014-present**
 - Certified hardware for OS installation
 - Edited web-site and internal documents
 
-#### Henry Schein Practice Solutions, American Fork, UT
+### Henry Schein Practice Solutions, American Fork, UT
 **Product Analyst 2005-2010**
 - Developed, designed, and maintained software specifications
 - Provided research and analysis to translate business/market requirements into functional requirements
@@ -40,12 +40,12 @@ mela@meladanielson.com
 - Wrote, vetted, and edited knowledge base articles and training documentation
 - Repaired customer databases
 
-#### LDS Family History Center
+### LDS Family History Center
 **Family History Consultant 1992-1999**
 - Trained patrons on Family Search and genealogy software
 - Assisted patrons with research
 
-#### WordPerfect Corporation
+### WordPerfect Corporation
 **Support Technician 1988-1992**
 - Provided technical support for WordPerfect Corporation software products
 
